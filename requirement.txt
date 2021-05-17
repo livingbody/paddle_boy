@@ -1,1 +1,5 @@
 paddlepaddle
+paddlex
+paddleclas
+paddleseg
+paddledetection
